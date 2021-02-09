@@ -2,7 +2,7 @@
 
  
 /* Attempt to connect to MySQL database */
-$con = mysqli_connect("localhost", "id12554850_root", "mla@2019", "id12554850_notesite");
+$con = mysqli_connect("localhost", "********", "********", "********");
  
 // Check connection
 if($con === false){
